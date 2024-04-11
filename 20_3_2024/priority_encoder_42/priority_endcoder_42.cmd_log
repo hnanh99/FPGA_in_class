@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Documents/Code/Verilog/FPGA_in_class/priority_encoder_42/priority_endcoder_42.xst" -ofn "D:/Documents/Code/Verilog/FPGA_in_class/priority_encoder_42/priority_endcoder_42.syr" 
+xst -intstyle ise -ifn "D:/Documents/Code/Verilog/FPGA_in_class/priority_encoder_42/priority_endcoder_42.xst" -ofn "D:/Documents/Code/Verilog/FPGA_in_class/priority_encoder_42/priority_endcoder_42.syr" 

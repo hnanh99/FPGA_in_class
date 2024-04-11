@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Documents/Code/Verilog/FPGA_in_class/hex2seg/tb_hex2seg_isim_beh.exe" -prj "D:/Documents/Code/Verilog/FPGA_in_class/hex2seg/tb_hex2seg_beh.prj" "work.tb_hex2seg" "work.glbl" 

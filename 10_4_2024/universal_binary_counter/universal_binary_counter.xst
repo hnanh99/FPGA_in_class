@@ -1,0 +1,5 @@
+set -tmpdir "D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/universal_binary_counter/xst/projnav.tmp"
+set -xsthdpdir "D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/universal_binary_counter/xst"
+elaborate
+-ifn universal_binary_counter.prj
+-ifmt mixed

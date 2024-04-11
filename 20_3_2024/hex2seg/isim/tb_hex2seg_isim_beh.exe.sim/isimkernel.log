@@ -1,0 +1,28 @@
+Command line:
+   tb_hex2seg_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51530
+
+Wed Mar 20 13:07:53 2024
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5154.62 Meg
+
+ Total Signals          : 16
+ Total Nets             : 31
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 129
+
+ Total Simulation Time: 0.171875 sec
+
+ Current Memory Usage: 4997.34 Meg
+
+Wed Mar 20 13:09:04 2024
+

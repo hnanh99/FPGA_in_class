@@ -1,0 +1,5 @@
+set -tmpdir "D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/reg_file/xst/projnav.tmp"
+set -xsthdpdir "D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/reg_file/xst"
+elaborate
+-ifn reg_file.prj
+-ifmt mixed

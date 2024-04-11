@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Documents/Code/Verilog/FPGA_in_class/decoder_24/tb_decoder_24_isim_beh.exe" -prj "D:/Documents/Code/Verilog/FPGA_in_class/decoder_24/tb_decoder_24_beh.prj" "work.tb_decoder_24" "work.glbl" 

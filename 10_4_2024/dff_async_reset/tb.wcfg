@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/dff_async_reset/dff_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="dff_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/dff_tb/i_clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i_clk</obj_property>
+      <obj_property name="ObjectShortName">i_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dff_tb/i_rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i_rst</obj_property>
+      <obj_property name="ObjectShortName">i_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dff_tb/i_d" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i_d</obj_property>
+      <obj_property name="ObjectShortName">i_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dff_tb/o_q" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o_q</obj_property>
+      <obj_property name="ObjectShortName">o_q</obj_property>
+   </wvobject>
+</wave_config>

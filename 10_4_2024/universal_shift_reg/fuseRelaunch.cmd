@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/universal_shift_reg/shift_reg_tb_isim_beh.exe" -prj "D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/universal_shift_reg/shift_reg_tb_beh.prj" "work.shift_reg_tb" "work.glbl" 

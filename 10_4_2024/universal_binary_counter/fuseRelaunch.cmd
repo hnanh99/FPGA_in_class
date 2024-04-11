@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/universal_binary_counter/counter_tb_isim_beh.exe" -prj "D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/universal_binary_counter/counter_tb_beh.prj" "work.counter_tb" "work.glbl" 

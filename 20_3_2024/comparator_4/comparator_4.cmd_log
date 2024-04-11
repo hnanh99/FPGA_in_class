@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Documents/Code/Verilog/FPGA_in_class/comparator_4/comparator_4.xst" -ofn "D:/Documents/Code/Verilog/FPGA_in_class/comparator_4/comparator_4.syr" 
+xst -intstyle ise -ifn "D:/Documents/Code/Verilog/FPGA_in_class/comparator_4/comparator_4.xst" -ofn "D:/Documents/Code/Verilog/FPGA_in_class/comparator_4/comparator_4.syr" 

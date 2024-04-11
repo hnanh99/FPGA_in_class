@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Documents/Code/Verilog/FPGA_in_class/full_adder_1/tb_full_addr_1_isim_beh.exe" -prj "D:/Documents/Code/Verilog/FPGA_in_class/full_adder_1/tb_full_addr_1_beh.prj" "work.tb_full_addr_1" "work.glbl" 

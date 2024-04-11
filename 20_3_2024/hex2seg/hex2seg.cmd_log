@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Documents/Code/Verilog/FPGA_in_class/hex2seg/hex2seg.xst" -ofn "D:/Documents/Code/Verilog/FPGA_in_class/hex2seg/hex2seg.syr" 

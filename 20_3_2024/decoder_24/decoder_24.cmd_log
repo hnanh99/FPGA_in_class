@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Documents/Code/Verilog/FPGA_in_class/decoder_24/decoder_24.xst" -ofn "D:/Documents/Code/Verilog/FPGA_in_class/decoder_24/decoder_24.syr" 

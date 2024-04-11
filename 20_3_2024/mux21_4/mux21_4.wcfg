@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Documents/Code/Verilog/FPGA_in_class/mux21_4/tb_mux21_4_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_mux21_4" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/tb_mux21_4/i_s" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i_s</obj_property>
+      <obj_property name="ObjectShortName">i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mux21_4/i_w0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_w0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">i_w0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mux21_4/i_w1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_w1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">i_w1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mux21_4/o_f" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">o_f[3:0]</obj_property>
+      <obj_property name="ObjectShortName">o_f[3:0]</obj_property>
+   </wvobject>
+</wave_config>

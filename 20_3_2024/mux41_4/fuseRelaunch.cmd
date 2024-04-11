@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Documents/Code/Verilog/FPGA_in_class/mux41_4/tb_mux41_4_isim_beh.exe" -prj "D:/Documents/Code/Verilog/FPGA_in_class/mux41_4/tb_mux41_4_beh.prj" "work.tb_mux41_4" "work.glbl" 
