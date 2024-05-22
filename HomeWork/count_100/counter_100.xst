@@ -1,0 +1,5 @@
+set -tmpdir "D:/Documents/Code/Verilog/FPGA_in_class/HomeWork/count_100/xst/projnav.tmp"
+set -xsthdpdir "D:/Documents/Code/Verilog/FPGA_in_class/HomeWork/count_100/xst"
+elaborate
+-ifn counter_100.prj
+-ifmt mixed

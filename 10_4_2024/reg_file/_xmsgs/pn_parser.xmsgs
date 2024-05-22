@@ -11,5 +11,8 @@
 <msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/reg_file/reg_file.v&quot; into library work</arg>
 </msg>
 
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/reg_file/reg_file_tb.v&quot; into library work</arg>
+</msg>
+
 </messages>
 

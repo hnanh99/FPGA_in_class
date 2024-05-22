@@ -1,0 +1,5 @@
+set -tmpdir "D:/Documents/Code/Verilog/Project/HomeWork/BT1/xst/projnav.tmp"
+set -xsthdpdir "D:/Documents/Code/Verilog/Project/HomeWork/BT1/xst"
+elaborate
+-ifn SeqDetect2.prj
+-ifmt mixed

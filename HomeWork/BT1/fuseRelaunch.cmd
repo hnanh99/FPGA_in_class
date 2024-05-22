@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Documents/Code/Verilog/FPGA_in_class/HomeWork/BT1/SeqDetect2_tb_isim_beh.exe" -prj "D:/Documents/Code/Verilog/FPGA_in_class/HomeWork/BT1/SeqDetect2_tb_beh.prj" "work.SeqDetect2_tb" "work.glbl" 

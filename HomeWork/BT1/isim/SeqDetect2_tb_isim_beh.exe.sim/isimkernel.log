@@ -1,0 +1,10 @@
+Command line:
+   SeqDetect2_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  63328
+
+Tue May 14 20:25:36 2024
+
+
+ Elaboration Time: 0.046875 sec

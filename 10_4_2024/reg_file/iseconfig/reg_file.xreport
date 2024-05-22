@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-04-10T14:15:32</DateModified>
+  <DateModified>2024-04-12T08:06:00</DateModified>
   <ModuleName>reg_file</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/reg_file/iseconfig/reg_file.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/reg_file</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>D:/Documents/Code/Verilog/FPGA_in_class/10_4_2024/reg_file\</ImplementationReportsDirectory>
   <DateInitialized>2024-04-10T14:15:32</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
